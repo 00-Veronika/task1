@@ -299,8 +299,19 @@
     color: white;
   }
   
+  hr{
+    color: white; 
+    width: 50%;
+    text-align:center;
+  }
+
+  .footer-text{
+    padding-bottom: 1rem;
+  }
+
   .row{
     justify-content: center;
+    /*justify-content: space-between;*/
   }
   
   @media(max-width:980px) {
